@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.aa7ee971.css",
-    "main.js": "/portfolio/static/js/main.6f2bb3b6.js",
-    "static/media/me.svg": "/portfolio/static/media/me.26bb1c325ac2e3a77f271b20be708f72.svg",
-    "static/media/maven.svg": "/portfolio/static/media/maven.49e882bc527e7c3eb85083d2d8dc720f.svg",
-    "static/media/docker.svg": "/portfolio/static/media/docker.cd4fd095c9e092fb0f227acae2e8f387.svg",
-    "static/media/mock-api-hub.svg": "/portfolio/static/media/mock-api-hub.864d443146328d6e0da3269387c047ae.svg",
-    "static/media/spring.svg": "/portfolio/static/media/spring.7fc1c27e3db03216eecd37c5f831a1dd.svg",
-    "static/media/mysql.svg": "/portfolio/static/media/mysql.2ca3daed8e6d9a7ecc3333c32519105a.svg",
-    "static/media/typescript.svg": "/portfolio/static/media/typescript.be9e78a022cbad6ced06046c4a6ec2ba.svg",
-    "static/media/gradle.svg": "/portfolio/static/media/gradle.f3a261baa7b512121b5d0b40d5110d51.svg",
-    "static/media/nginx.svg": "/portfolio/static/media/nginx.55fbe7101035ad6200757b4f07a9aef7.svg",
-    "static/media/junit.svg": "/portfolio/static/media/junit.89367174cf1cf51d661d699ee01bb001.svg",
-    "static/media/git.svg": "/portfolio/static/media/git.bd0eb98c0e5d034498c27c959ba42908.svg",
-    "static/media/track-player.svg": "/portfolio/static/media/track-player.9891fb29a87f37c2a94da505e29a0be6.svg",
-    "static/media/certificate.svg": "/portfolio/static/media/certificate.165b7794de7a9118e41ff8fa35984adb.svg",
-    "index.html": "/portfolio/index.html",
-    "main.aa7ee971.css.map": "/portfolio/static/css/main.aa7ee971.css.map",
-    "main.6f2bb3b6.js.map": "/portfolio/static/js/main.6f2bb3b6.js.map"
+    "main.css": "/static/css/main.aa7ee971.css",
+    "main.js": "/static/js/main.b1319e3c.js",
+    "static/media/me.svg": "/static/media/me.26bb1c325ac2e3a77f271b20be708f72.svg",
+    "static/media/maven.svg": "/static/media/maven.49e882bc527e7c3eb85083d2d8dc720f.svg",
+    "static/media/docker.svg": "/static/media/docker.cd4fd095c9e092fb0f227acae2e8f387.svg",
+    "static/media/mock-api-hub.svg": "/static/media/mock-api-hub.864d443146328d6e0da3269387c047ae.svg",
+    "static/media/spring.svg": "/static/media/spring.7fc1c27e3db03216eecd37c5f831a1dd.svg",
+    "static/media/mysql.svg": "/static/media/mysql.2ca3daed8e6d9a7ecc3333c32519105a.svg",
+    "static/media/typescript.svg": "/static/media/typescript.be9e78a022cbad6ced06046c4a6ec2ba.svg",
+    "static/media/gradle.svg": "/static/media/gradle.f3a261baa7b512121b5d0b40d5110d51.svg",
+    "static/media/nginx.svg": "/static/media/nginx.55fbe7101035ad6200757b4f07a9aef7.svg",
+    "static/media/junit.svg": "/static/media/junit.89367174cf1cf51d661d699ee01bb001.svg",
+    "static/media/git.svg": "/static/media/git.bd0eb98c0e5d034498c27c959ba42908.svg",
+    "static/media/track-player.svg": "/static/media/track-player.9891fb29a87f37c2a94da505e29a0be6.svg",
+    "static/media/certificate.svg": "/static/media/certificate.165b7794de7a9118e41ff8fa35984adb.svg",
+    "index.html": "/index.html",
+    "main.aa7ee971.css.map": "/static/css/main.aa7ee971.css.map",
+    "main.b1319e3c.js.map": "/static/js/main.b1319e3c.js.map"
   },
   "entrypoints": [
     "static/css/main.aa7ee971.css",
-    "static/js/main.6f2bb3b6.js"
+    "static/js/main.b1319e3c.js"
   ]
 }
